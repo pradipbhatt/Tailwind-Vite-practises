@@ -1,5 +1,3 @@
-import React from 'react';
-
 function Intro() {
    return (
     <div className="w-full flex container-auto justify-center bg-slate-900">
