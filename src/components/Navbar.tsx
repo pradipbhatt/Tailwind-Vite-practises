@@ -20,7 +20,7 @@ const Navbar = () => {
   ];
 
   return (
-    <div className="bg-black flex justify-between items-center h-24 max-w-full px-0 text-white lg:w-full">
+    <div className="bg-black flex justify-between items-center h-24 max-w-full px-0 text-white lg:w-full fixed w-full mb-5 z-10">
       {/* Logo */}
       <h1 className="w-full text-3xl font-bold text-[#00df9a]">PRADIP.</h1>
 
